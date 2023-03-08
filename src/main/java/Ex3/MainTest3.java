@@ -5,7 +5,7 @@ public class MainTest3 {
         VanBan v1 = new VanBan();
         v1.setNoiDung("  Chào mừng     các bạn   đến với Khoá Học lập trình Website với ngôn ngữ Php  ");
 
-        // Số từ : 15
+        // Đếm số từ : 15
         System.out.println("Số từ : " + v1.demSoTu());
 
         // Chuyển sang dạng văn bản chuẩn
